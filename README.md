@@ -1,4 +1,4 @@
-# Portfolio of projects
+# Portfolios of projects
 
 ## Visual Portfolio
 [🗺 Online document](https://indd.adobe.com/view/9ef96c38-a0fe-44a1-aaea-d147b865ad8c)
