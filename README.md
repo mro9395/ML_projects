@@ -1,7 +1,7 @@
 # Portfolios of projects
 
 ## Spatial Portfolio
-[🗺 Online document](https://indd.adobe.com/view/9ef96c38-a0fe-44a1-aaea-d147b865ad8c)
+[🗺 Online document](https://indd.adobe.com/view/f78ff36f-f55e-4d2e-87bc-92d40f7406f5)
 
 ## Coding Porfolio
 A set of Machine Learning Projects usign different datasets and models.
