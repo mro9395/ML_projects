@@ -6,7 +6,7 @@
 ## Coding Porfolio
 A set of Machine Learning Projects usign different datasets and models.
 
-#### **01** Predicting World Happiness
+[#### **01** Predicting World Happiness] (https://github.com/mro9395/ML_projects/blob/main/01WorldHappinessPrediction/Predicting_World_Happiness_Model.ipynb)
 
 #### **02** Predicting COVID-19 using X-Ray Imaging
 
